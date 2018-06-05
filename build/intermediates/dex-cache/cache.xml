@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.0_eda7be00e5ec637c53d547500528360d9eced963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_47e1beab4f0cf35d836d11baceaa61dfe5e9ab11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62c85d61c1ecd732dfe0c57e050d179ed85588bf">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-27.0.0_a6122d8870f6d9eb278f31b3a131ec8197092df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\16.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-16.0.0_b44ef39b658a9b2c8a75c9e435dff7687b4064b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\16.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5d5bbea28a33abc9373f3d10c7a4607dd580e8bc">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-16.0.1_cd1401303f367e2e391ba3a62910d9fbaeaa43d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-interop\16.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efe9d64183cd00b0cd3d876383ed177e6b37398c">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-interop-16.0.0_a474f50d6ecea5cbfeb79de7226898b20af8b93d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f73f6af8b32299bb364178188dcfe50379ed0da7">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-27.0.0_f8b9a9cc3fbed47405385c0f46a00b1a0f6a483f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.0_887505eaa165a15fb5e287c5988a85c7ae468b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_e844bb8bf12d53280f4633db858c20d6c20c934e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\support-v4\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7404d217654969776b5fa566df9a7f2c1b1c337">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-27.0.0_a3472c58df13489287ece2572fe08fd54ca9976e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.0\a7782471b2a0de8fec071b8094a8aaf61c46ab70\support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.0_a482032cbb4d9bb327c9c03143823a5702f25117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.0_cbd96df0cdfac94d7c8cefc82d5e0a2a424b53a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\transition\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4acee87c1f3801ff4162b2f8d5b3cf999007ee6f">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-transition-27.0.0_ea8e472fe41893b6684e096b7a8de2fb97d990c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.0_fe3b12fade0601b5b5abb03e1c8fee21d3259a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.0_9b9f49f09d2542e6a116a48f8e014586c983fff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\15.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-15.0.1_419451aa4df647cb7ea6d601bd9c7cfd7218aa01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-flags\15.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-flags-15.0.1_1aad9c899e0cae268bb79fc0ef71f40c997ad4ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-collection\15.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d757f615613c93119776641df7c3537d63ac78f4">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-collection-15.0.1_a79ab5a884901e24bc36b90efed2592a01d7a4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\common-1.0.0_1baae54239e384925e48177fa052f317f19cc19c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.0_6999fa609b7b2e9bf636b0b228e6711602f3f9c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.0_ba2a7618ff4570c6288c209e43e515687787718d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\15.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-15.0.1_75190a7b70d572bed85aee8a4fd3be9dd93724cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.android.support\design\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b8dd77dd9462bc957cbc901cbe9d6c06047f8216">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.android.support-design-27.0.0_94d05b3453975297f286750706a66b95312e3786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\16.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3577bd590bf158cae5c219b0b1a89963c3d9306a">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-16.0.1_c12b41a23fafc1d3b2464c55bd688dc63b194f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\15.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-15.0.1_b956cff4507cfa65db713628c8f9516225d8beda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\common-1.0.0_efcbc182b575a6d652bf476bddfde3e8854de2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidstudio\androidproject\Sales\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\16.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c05262d45e7720198b120bbb5463f78ad345baa4">
+        <dex dex="F:\androidstudio\androidproject\Sales\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-16.0.1_c90bb42750e04e93d4978b8ddd000a0103053534.jar" />
+    </item>
+
+</items>

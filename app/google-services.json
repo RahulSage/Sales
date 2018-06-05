@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "224367289150",
+    "firebase_url": "https://sales-a47df.firebaseio.com",
+    "project_id": "sales-a47df",
+    "storage_bucket": "sales-a47df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224367289150:android:f731ad2f42573c6b",
+        "android_client_info": {
+          "package_name": "com.example.hp.sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224367289150-1l0pgkkkak01muc2h0hhbu6sm79lr6kk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "224367289150-1l0pgkkkak01muc2h0hhbu6sm79lr6kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ahjI0b4jcOrSBJB8vkWPNksObZ8TKTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
